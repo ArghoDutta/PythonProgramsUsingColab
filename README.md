@@ -1,2 +1,2 @@
-# PythonProgramsUsingColab
-All Python Programs
+# Important Pattern Questions
+Pattern Questions are done using google colab..
